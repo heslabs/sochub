@@ -5,7 +5,7 @@
 * Replace GPU with HW accelerator integrated in SoC or extended with SoM
   * SoC: Connection with AXI/CHI on-chip fabric
   * SoM: Connection with PCIe and M.2
-* Running SoC innovation community with exchange hub of HW images and SW apps
+* Running SoC innovation community with IP exchange hub
   * HW images: FPGA bitstream for system-level functional verification
   * SW apps: Executable binary for full AI/ML software stack 
 
